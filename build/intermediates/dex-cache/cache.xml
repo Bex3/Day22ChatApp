@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/heathertellez/Desktop/Sandbox/Day22Project/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/heathertellez/Desktop/Sandbox/Day22Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_fb74e5809e3592b49520f5a6f7d93abbfe0fdd0d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/heathertellez/Desktop/Sandbox/Day22Project/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/heathertellez/Desktop/Sandbox/Day22Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_a6baa20fed2498ad9d6a15fb52ad8b5ca62e4ffb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/heathertellez/Desktop/Sandbox/Day22Project/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="4bd5dc5ca3a286e917f24c78b09d07c9aa4793f4">
+        <dex dex="/Users/heathertellez/Desktop/Sandbox/Day22Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6119bb4f75c24c176a216f1017a85c3804168c28/classes.dex" />
+    </item>
+    <item
+        jar="/Users/heathertellez/Desktop/Sandbox/Day22Project/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/heathertellez/Desktop/Sandbox/Day22Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_13f104cd4c95774eaf40370dfde59e9c2ba51014/classes.dex" />
+    </item>
+    <item
+        jar="/Users/heathertellez/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/heathertellez/Desktop/Sandbox/Day22Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_8b6dca188ff3e8148e3e7b77b0427135f42bdc88/classes.dex" />
+    </item>
+    <item
+        jar="/Users/heathertellez/Desktop/Sandbox/Day22Project/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/heathertellez/Desktop/Sandbox/Day22Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_32095939ee4b2be9a272969738bb5e93a0db6715/classes.dex" />
+    </item>
+    <item
+        jar="/Users/heathertellez/Desktop/Sandbox/Day22Project/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/heathertellez/Desktop/Sandbox/Day22Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_d9eec7fefb76fe83e0b816fde95dc6b333378b78/classes.dex" />
+    </item>
+    <item
+        jar="/Users/heathertellez/Desktop/Sandbox/Day22Project/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/heathertellez/Desktop/Sandbox/Day22Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_b4c93f50968348ceaef6253f1774d489d3d5470e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/heathertellez/Desktop/Sandbox/Day22Project/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/heathertellez/Desktop/Sandbox/Day22Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_5c83c582c913bbf2032504cb93e6d685d96e3635/classes.dex" />
+    </item>
+    <item
+        jar="/Users/heathertellez/Desktop/Sandbox/Day22Project/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/heathertellez/Desktop/Sandbox/Day22Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_9f43841d495a3f00016ee28bad1eb33967a86a43/classes.dex" />
+    </item>
+    <item
+        jar="/Users/heathertellez/Desktop/Sandbox/Day22Project/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/heathertellez/Desktop/Sandbox/Day22Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_9a0795daf37ba7e2fd51e1befdc6d45fe27246d2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/heathertellez/Desktop/Sandbox/Day22Project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/heathertellez/Desktop/Sandbox/Day22Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_1d18e50626ff51b1079029f9eb96334e91cc307e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/heathertellez/Desktop/Sandbox/Day22Project/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/heathertellez/Desktop/Sandbox/Day22Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_a047cb0302b9542ec6a7da35871a517bf3e259bf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/heathertellez/Desktop/Sandbox/Day22Project/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="16bd0e99e16de2c299f7538e56bf36e130c60785">
+        <dex dex="/Users/heathertellez/Desktop/Sandbox/Day22Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_21b58a6efe74af741ec261748cf19c871cfa1e40/classes.dex" />
+    </item>
+    <item
+        jar="/Users/heathertellez/Desktop/Sandbox/Day22Project/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/heathertellez/Desktop/Sandbox/Day22Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_dbc4acc3b95ed4b1e64932ec3ffe32394eb0c0b7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/heathertellez/Desktop/Sandbox/Day22Project/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/heathertellez/Desktop/Sandbox/Day22Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_5de3fe1bb2843a603a06030e0212c1f4b155a35b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/heathertellez/Desktop/Sandbox/Day22Project/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/heathertellez/Desktop/Sandbox/Day22Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_509c8c2d57ce6c12aff6ca430081187ed5364f3e/classes.dex" />
+    </item>
+
+</items>
